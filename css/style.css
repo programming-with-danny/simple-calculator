@@ -1,0 +1,47 @@
+
+div.row div.col-4{
+    height: 50vh;
+    margin: 100px auto;
+    background-color: aquamarine;
+    border-radius: 10px;
+    
+}
+div.content{
+    margin: 0 auto;
+    padding: 40px;
+}
+label{
+    font-size: 20px;
+    font-weight: 700;
+}
+div{
+    margin-bottom: 15px;
+}
+select#operation{
+    width: 62%;
+    border-radius: 10px;
+    padding: 6px;
+    outline: none;
+    border: none;
+}
+input{
+    width: 64%;
+    padding: 5px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+}
+button#btn{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    outline: none;
+    border: none;
+}
+div#display{
+    padding: 10px;
+    background-color: white;
+    margin-top: 3px;
+    font-size: 25px;
+    text-align: center;
+}
